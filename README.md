@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frieya" alt="frieya" /></a> </p>
 
-- 🔭 I’m currently working on **a data science project**
+- 🔭 I’m currently working on **my computer vision thesis**
 
-- 🌱 I’m currently learning **data engineering technologies or stack such as Spark, GCP, AWS, Airflow, Kurbenetes**
+- 🌱 I’m currently learning **machine learning libraries and technologies such as Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Frieya?tab=repositories](https://github.com/Frieya?tab=repositories)
 
-- 📫 How to reach me **jwabe2001@gmail.com**
+- 📫 How to reach me **jwabe2001@gmail.com/john_wesley_abe@dlsu.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
